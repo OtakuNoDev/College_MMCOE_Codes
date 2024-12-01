@@ -95,3 +95,32 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT:-
+Enter the file name: it1.txt
+File Operations Menu:
+1. Write to a file
+2. Read from a file
+3. Append to a file
+4. Exit
+Enter your choice: 1
+Enter the text you want to write to the file (press Enter to finish):
+writing on this file using file handling
+Text written to file successfully.
+File Operations Menu:
+1. Write to a file
+2. Read from a file
+3. Append to a file
+4. Exit
+Enter your choice: 2
+Contents of the file:
+writing on this file using file handling
+File Operations Menu:
+1. Write to a file
+2. Read from a file
+3. Append to a file
+4. Exit
+Enter your choice: 4
+Exiting program
+*/
